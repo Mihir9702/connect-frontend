@@ -21,7 +21,7 @@ export default () => {
       >
         {User} Friends
       </button>
-      {/* <button
+      <button
         onClick={() => r(true)}
         className={
           link +
@@ -31,7 +31,7 @@ export default () => {
         }
       >
         {Box} Remix
-      </button> */}
+      </button>
       <section
         className="flex justify-between items-center
 			text-gray-400 hover:text-gray-200

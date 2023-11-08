@@ -75,7 +75,7 @@ export default ({ title, children }: AuthProps) => {
               className="text-xs font-bold min-w-[300px] uppercase text-gray-400"
             >
               <div className="flex w-full gap-1">
-                Username or Email
+                Username
                 <div className="text-red-500">*</div>
               </div>
               <input
