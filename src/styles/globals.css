@@ -75,6 +75,9 @@ label {
   @apply bg-mid;
 }
 
+.midnight-button {
+}
+
 .flex-col {
   display: flex;
   flex-direction: column;
