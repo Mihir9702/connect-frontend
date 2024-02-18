@@ -1,4 +1,4 @@
-import React, { FC, InputHTMLAttributes } from "react";
+import React, { InputHTMLAttributes } from "react";
 
 type InputFieldProps = InputHTMLAttributes<HTMLInputElement> & {
   name: string;
